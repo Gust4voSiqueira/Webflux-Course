@@ -1,4 +1,4 @@
-package br.com.gustavo.controler;
+package br.com.gustavo.controller;
 
 import br.com.gustavo.model.request.UserRequest;
 import br.com.gustavo.model.request.UserResponse;

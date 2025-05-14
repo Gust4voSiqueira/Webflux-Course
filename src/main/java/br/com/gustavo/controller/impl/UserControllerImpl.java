@@ -1,6 +1,6 @@
-package br.com.gustavo.controler.impl;
+package br.com.gustavo.controller.impl;
 
-import br.com.gustavo.controler.UserController;
+import br.com.gustavo.controller.UserController;
 import br.com.gustavo.model.request.UserRequest;
 import br.com.gustavo.model.request.UserResponse;
 import br.com.gustavo.service.UserService;
