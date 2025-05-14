@@ -1,5 +1,7 @@
 package br.com.gustavo.controler;
 
+import br.com.gustavo.model.request.UserRequest;
+import br.com.gustavo.model.request.UserResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
